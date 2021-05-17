@@ -1,0 +1,16 @@
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\bin\Debug\net5.0\DIO_Console.exe
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\bin\Debug\net5.0\DIO_Console.deps.json
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\bin\Debug\net5.0\DIO_Console.runtimeconfig.json
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\bin\Debug\net5.0\DIO_Console.runtimeconfig.dev.json
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\bin\Debug\net5.0\DIO_Console.dll
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\bin\Debug\net5.0\ref\DIO_Console.dll
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\bin\Debug\net5.0\DIO_Console.pdb
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\obj\Debug\net5.0\DIO_Console.csprojAssemblyReference.cache
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\obj\Debug\net5.0\DIO_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\obj\Debug\net5.0\DIO_Console.AssemblyInfoInputs.cache
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\obj\Debug\net5.0\DIO_Console.AssemblyInfo.cs
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\obj\Debug\net5.0\DIO_Console.csproj.CoreCompileInputs.cache
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\obj\Debug\net5.0\DIO_Console.dll
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\obj\Debug\net5.0\ref\DIO_Console.dll
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\obj\Debug\net5.0\DIO_Console.pdb
+C:\Users\Leao\Desktop\Thales\Bootcamp_TakeBlip\Introdução .Net\DIO_Console\obj\Debug\net5.0\DIO_Console.genruntimeconfig.cache
